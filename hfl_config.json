@@ -3,8 +3,9 @@
     [
         {
             "icon": "https://cdnimg.quytr.com/sysimg/220408/df928a360416c423b79caefbfbfaba83_XO.png",
-            "protocol_header":"",
-            "name":"妹妹短视频",
+            "protocol_header": "",
+            "nameStr": "妹妹短视频",
+            "name": "meimei"
         }
     ]
 }
