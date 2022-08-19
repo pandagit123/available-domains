@@ -1,21 +1,21 @@
 {
     "meimei": {
-        "icon": "https://cdnimg.fehu1.cn/sysimg/220414/c37d209483dc5c63f009431d75b486fe_XO.png",
+        "icon": "https://cdnimg.fehu1.cn/sysimg/220819/e7defd60842ad4fb3f61a2686eadc62b_XO.png",
         "name": "妹妹短视频",
         "domain":"https://mmapi.gazzg.com"
     },
     "elephant": {
-        "icon": "https://cdnimg.fehu1.cn/sysimg/220702/28d84853499ea895d877553e4ef17c86_XO.png",
+        "icon": "https://cdnimg.fehu1.cn/sysimg/220819/a21dacbd75af3a1839784d7aed600beb_XO.png",
         "name": "大象GV",
         "domain":"https://dor.gazzg.com"
     },
     "pangci": {
-        "icon": "https://cdnimg.shtongwei0.com/sysimg/220429/70596549281790df9d2131b72dc611c0_XO.png",
+        "icon": "https://cdnimg.shtongwei0.com/sysimg/220819/4174bf1104a0ffd5ee789aefc49deba1_XO.png",
         "name": "胖次",
         "domain":"https://mmapi.gazzg.com"
     },
     "semao": {
-        "icon": "https://cdnimg.shtongwei0.com/sysimg/220429/70596549281790df9d2131b72dc611c0_XO.png",
+        "icon": "https://cdnimg.shtongwei0.com/sysimg/220819/ebeaf07ee27656ff8addcb6f162ddf13_XO.png",
         "name": "色猫AV",
         "domain":"https://mmapi.gazzg.com"
     }
