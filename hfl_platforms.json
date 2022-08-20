@@ -2,12 +2,12 @@
     "meimei": {
         "icon": "https://cdnimg.fehu1.cn/sysimg/220819/e7defd60842ad4fb3f61a2686eadc62b_XO.png",
         "name": "妹妹短视频",
-        "domain":"https://mmapi.gazzg.com"
+        "domain":"https://api.dspapi.com"
     },
     "elephant": {
         "icon": "https://cdnimg.fehu1.cn/sysimg/220819/a21dacbd75af3a1839784d7aed600beb_XO.png",
         "name": "大象GV",
-        "domain":"https://dor.gazzg.com"
+        "domain":"https://dxapi.gay"
     },
     "pangci": {
         "icon": "https://cdnimg.shtongwei0.com/sysimg/220819/4174bf1104a0ffd5ee789aefc49deba1_XO.png",
